@@ -7,7 +7,11 @@ Automation Engineer specializing in industrial programming and robotics, with a 
 
 **Professional** — I design and commission automation systems for pharma manufacturing at Körber. My day-to-day spans PLC programming (B&R, Rockwell/Allen-Bradley), FANUC robotics, and system integration.
 
-**Side Projects** — Building [Forge](https://rideforge.app), a cycling training desktop app with F1 broadcast-style telemetry — timing towers, gap timers, and race director camera switching. Built with Tauri, Rust, and React.
+## Side Projects
+
+Building [Forge](https://rideforge.app), a cycling training desktop app with F1 broadcast-style telemetry — timing towers, gap timers, and race director camera switching. Built with Tauri, Rust, and React.
+
+Building [GoodEvening.tv](https://goodevening.tv), a web-based teleprompter for YouTubers and content creators — offline-first PWA with voice sync, hardware presets for beam-splitter rigs (Elgato, etc.), and a script library that doesn't suck. Built with React.
 
 ## Featured Project: Sim Racing Wheel System
 
