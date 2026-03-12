@@ -25,13 +25,13 @@ Year-long senior capstone at NDSU — a full sim racing force feedback system (w
 
 ## Tech I Work With
 
-**Languages** — `C` `C++` `Python` `Rust` `TypeScript` `Structured Text` `Java` `SQL` `VHDL`
+**Languages** — `C` `C++` `C#` `Python` `Java` `Rust` `TypeScript` `Structured Text` `Java` `SQL` `VHDL`
 
-**Embedded & Hardware** — `STM32` `FreeRTOS` `CAN Bus` `SPI` `UART` `I2C` `USB OTG` `Fusion 360` `3D Printing`
+**Embedded & Hardware** — `STM32` `FreeRTOS` `CAN Bus` `SPI` `UART` `I2C` `USB OTG` `Fusion 360` `3D Printing` `PCB Design`
 
-**Industrial** — `B&R Automation Studio` `Rockwell/Allen-Bradley` `FANUC` `OPC UA` `PackML`
+**Industrial** — `B&R Automation` `Rockwell/Allen-Bradley` `FANUC` `OPC UA` `PackML`
 
-**Web & Desktop** — `React/Next.js` `Tauri` `Bluetooth FTMS`
+**Web & Desktop** — `React/Next.js` `Tauri`
 
 **Tools** — `Git` `Jira` `Linux` `SQL Server`
 
