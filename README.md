@@ -9,9 +9,9 @@ Automation Engineer specializing in industrial programming and robotics, with a 
 
 ## Side Projects
 
-Building [Forge](https://rideforge.app), a cycling training desktop app with F1 broadcast-style telemetry — timing towers, gap timers, and race director camera switching. Built with Tauri, Rust, and React.
+[GoodEvening.tv](https://goodevening.tv), a web-based teleprompter that works every time — open a tab, paste your script, go live. Built with React.
 
-Building [GoodEvening.tv](https://goodevening.tv), a web-based teleprompter for YouTubers and content creators — offline-first PWA with voice sync, hardware presets for beam-splitter rigs (Elgato, etc.), and a script library that doesn't suck. Built with React.
+Building [Forge](https://rideforge.app), a cycling training desktop app with F1 broadcast-style telemetry — timing towers, gap timers, and race director camera switching. Built with Tauri, Rust, and React.
 
 ## Featured Project: Sim Racing Wheel System
 
